@@ -1,2 +1,5 @@
 # profile-sync-daemon
-Sync web-browser's profile folders with tmpfs (RAM)
+
+Syncs browser profiles to tmpfs reducing SSD/HDD calls and speeding-up browsers.
+
+See https://github.com/graysky2/profile-sync-daemon
